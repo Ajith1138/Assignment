@@ -1,0 +1,77 @@
+{
+            "self": "https://azentio.atlassian.net/rest/api/3/project/10048",
+            "id": "10048",
+            "key": "TEST",
+            "name": "AZENTIO JIRA USAGE LEARNING PROJECT",
+            "avatarUrls": {
+                "48x48": "https://azentio.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424",
+                "24x24": "https://azentio.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=small",
+                "16x16": "https://azentio.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=xsmall",
+                "32x32": "https://azentio.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=medium"
+            },
+            "issuetypes": [
+                {
+                    "self": "https://azentio.atlassian.net/rest/api/3/issuetype/10000",
+                    "id": "10000",
+                    "description": "A big user story that needs to be broken down. Created by Jira Software - do not edit or delete.",
+                    "iconUrl": "https://azentio.atlassian.net/images/icons/issuetypes/epic.svg",
+                    "name": "Epic",
+                    "untranslatedName": "Epic",
+                    "subtask": false
+                },
+                {
+                    "self": "https://azentio.atlassian.net/rest/api/3/issuetype/10001",
+                    "id": "10001",
+                    "description": "Functionality or a feature expressed as a user goal.",
+                    "iconUrl": "https://azentio.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium",
+                    "name": "Story",
+                    "untranslatedName": "Story",
+                    "subtask": false
+                },
+                {
+                    "self": "https://azentio.atlassian.net/rest/api/3/issuetype/10004",
+                    "id": "10004",
+                    "description": "A problem or error.",
+                    "iconUrl": "https://azentio.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium",
+                    "name": "Bug",
+                    "untranslatedName": "Bug",
+                    "subtask": false
+                },
+                {
+                    "self": "https://azentio.atlassian.net/rest/api/3/issuetype/10128",
+                    "id": "10128",
+                    "description": "Test Suite, containing one or more test-cases",
+                    "iconUrl": "https://azentio.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10304?size=medium",
+                    "name": "Test Suite",
+                    "untranslatedName": "Test Suite",
+                    "subtask": false
+                },
+                {
+                    "self": "https://azentio.atlassian.net/rest/api/3/issuetype/10129",
+                    "id": "10129",
+                    "description": "Test Case",
+                    "iconUrl": "https://azentio.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+                    "name": "Test Case",
+                    "untranslatedName": "Test Case",
+                    "subtask": true
+                },
+                {
+                    "self": "https://azentio.atlassian.net/rest/api/3/issuetype/10002",
+                    "id": "10002",
+                    "description": "A small, distinct piece of work.",
+                    "iconUrl": "https://azentio.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+                    "name": "Task",
+                    "untranslatedName": "Task",
+                    "subtask": false
+                },
+                {
+                    "self": "https://azentio.atlassian.net/rest/api/3/issuetype/10109",
+                    "id": "10109",
+                    "description": "A small piece of work that's part of a larger task.",
+                    "iconUrl": "https://azentio.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+                    "name": "Sub-task",
+                    "untranslatedName": "Sub-task",
+                    "subtask": true
+                }
+            ]
+        },

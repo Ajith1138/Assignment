@@ -1,0 +1,18 @@
+[
+	{
+		"self": "https://azentio.atlassian.net/rest/api/3/user?accountId=62e517832fe585febb3cc99c",
+		"accountId": "62e517832fe585febb3cc99c",
+		"accountType": "atlassian",
+		"emailAddress": "sridhar.s@azentio.com",
+		"avatarUrls": {
+			"48x48": "https://secure.gravatar.com/avatar/0bbb081e8207628135eddc5e44739993?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSS-1.png",
+			"24x24": "https://secure.gravatar.com/avatar/0bbb081e8207628135eddc5e44739993?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSS-1.png",
+			"16x16": "https://secure.gravatar.com/avatar/0bbb081e8207628135eddc5e44739993?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSS-1.png",
+			"32x32": "https://secure.gravatar.com/avatar/0bbb081e8207628135eddc5e44739993?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSS-1.png"
+		},
+		"displayName": "Sridhar S",
+		"active": true,
+		"timeZone": "Asia/Kolkata",
+		"locale": "en_US"
+	}
+]

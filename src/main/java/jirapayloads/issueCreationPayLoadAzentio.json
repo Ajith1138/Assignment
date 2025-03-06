@@ -1,0 +1,114 @@
+{
+	"update": {
+	},
+	"fields": {
+		"summary": "To check the show all TRX falg under user in CSM Param",
+		"issuetype": {
+			"id": "10004"
+		},
+		"components": [
+			{
+				"name": "CSM"
+			}
+		],
+		"customfield_10094": {
+			"value": "Critical"
+		},
+		"customfield_10150": [
+			{
+				"name": "14.7"
+			}
+		],
+		"project": {
+			"id": "10079"
+		},
+		"description": {
+			"type": "doc",
+			"version": 1,
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Issue at Test failed at the following Step And uncheck the show today trx flag in CSM Param",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"customfield_10154": {
+			"type": "doc",
+			"version": 1,
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Test",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"fixVersions": [
+		],
+		"priority": {
+			"name": "Medium",
+			"id": "3",
+			"iconUrl": "https:\/\/azentio.atlassian.net\/images\/icons\/priorities\/medium.svg"
+		},
+		"customfield_10155": {
+			"type": "doc",
+			"version": 1,
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Test expected outcome",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"customfield_10156": {
+			"type": "doc",
+			"version": 1,
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "Test Actual outcome",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"customfield_10157": {
+			"type": "doc",
+			"version": 1,
+			"content": [
+				{
+					"type": "paragraph",
+					"content": [
+						{
+							"text": "http:\/\/192.168.19.39:8041\/imal_csm_params_imal145_qc_o18",
+							"type": "text"
+						}
+					]
+				}
+			]
+		},
+		"labels": [
+			"AUTOMATION"
+		],
+		"assignee": {
+			"id": "62e517832fe585febb3cc99c"
+		}
+	}
+}

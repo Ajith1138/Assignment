@@ -1,0 +1,6 @@
+@And("^user_611 update test data set id for SADS_P2_024$")
+public void user_611_update_test_data_set_id_for_sads_p2_024()throws Throwable{
+}
+@And("^user_611 update test data set id for SADS_P2_024_01$")
+public void user_611_update_test_data_set_id_for_sads_p2_024_01()throws Throwable{
+}
